@@ -1,0 +1,14 @@
+C:\Users\jonas\OneDrive\Skrivebord\mit arbejde\teknik\opg5obljsonsever\opg5obljsonsever\bin\Debug\net8.0\opg5obljsonsever.exe
+C:\Users\jonas\OneDrive\Skrivebord\mit arbejde\teknik\opg5obljsonsever\opg5obljsonsever\bin\Debug\net8.0\opg5obljsonsever.deps.json
+C:\Users\jonas\OneDrive\Skrivebord\mit arbejde\teknik\opg5obljsonsever\opg5obljsonsever\bin\Debug\net8.0\opg5obljsonsever.runtimeconfig.json
+C:\Users\jonas\OneDrive\Skrivebord\mit arbejde\teknik\opg5obljsonsever\opg5obljsonsever\bin\Debug\net8.0\opg5obljsonsever.dll
+C:\Users\jonas\OneDrive\Skrivebord\mit arbejde\teknik\opg5obljsonsever\opg5obljsonsever\bin\Debug\net8.0\opg5obljsonsever.pdb
+C:\Users\jonas\OneDrive\Skrivebord\mit arbejde\teknik\opg5obljsonsever\opg5obljsonsever\obj\Debug\net8.0\opg5obljsonsever.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonas\OneDrive\Skrivebord\mit arbejde\teknik\opg5obljsonsever\opg5obljsonsever\obj\Debug\net8.0\opg5obljsonsever.AssemblyInfoInputs.cache
+C:\Users\jonas\OneDrive\Skrivebord\mit arbejde\teknik\opg5obljsonsever\opg5obljsonsever\obj\Debug\net8.0\opg5obljsonsever.AssemblyInfo.cs
+C:\Users\jonas\OneDrive\Skrivebord\mit arbejde\teknik\opg5obljsonsever\opg5obljsonsever\obj\Debug\net8.0\opg5obljsonsever.csproj.CoreCompileInputs.cache
+C:\Users\jonas\OneDrive\Skrivebord\mit arbejde\teknik\opg5obljsonsever\opg5obljsonsever\obj\Debug\net8.0\opg5obljsonsever.dll
+C:\Users\jonas\OneDrive\Skrivebord\mit arbejde\teknik\opg5obljsonsever\opg5obljsonsever\obj\Debug\net8.0\refint\opg5obljsonsever.dll
+C:\Users\jonas\OneDrive\Skrivebord\mit arbejde\teknik\opg5obljsonsever\opg5obljsonsever\obj\Debug\net8.0\opg5obljsonsever.pdb
+C:\Users\jonas\OneDrive\Skrivebord\mit arbejde\teknik\opg5obljsonsever\opg5obljsonsever\obj\Debug\net8.0\opg5obljsonsever.genruntimeconfig.cache
+C:\Users\jonas\OneDrive\Skrivebord\mit arbejde\teknik\opg5obljsonsever\opg5obljsonsever\obj\Debug\net8.0\ref\opg5obljsonsever.dll

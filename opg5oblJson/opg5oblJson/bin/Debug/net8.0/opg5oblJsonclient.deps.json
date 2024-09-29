@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "opg5oblJsonclient/1.0.0": {
+        "runtime": {
+          "opg5oblJsonclient.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "opg5oblJsonclient/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
